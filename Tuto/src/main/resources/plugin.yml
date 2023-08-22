@@ -1,0 +1,5 @@
+name: Tuto
+version: '${project.version}'
+main: fr.yudza.tuto.Tuto
+authors: [Yudza]
+description: Plugin tuto

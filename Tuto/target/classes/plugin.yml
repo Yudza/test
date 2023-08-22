@@ -1,0 +1,5 @@
+name: Tuto
+version: '1.0-SNAPSHOT'
+main: fr.yudza.tuto.Tuto
+authors: [Yudza]
+description: Plugin tuto
